@@ -7,4 +7,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('hi', [MyController::class, 'get_hellow']);;
