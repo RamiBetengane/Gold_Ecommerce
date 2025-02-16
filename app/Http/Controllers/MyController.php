@@ -8,8 +8,5 @@ class MyController extends Controller
 {
     //
 
-    public function get_hellow()
-    {
-        return "Hellq world!";
-    }
+
 }
